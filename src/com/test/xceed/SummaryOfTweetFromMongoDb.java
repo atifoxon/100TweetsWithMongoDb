@@ -28,10 +28,10 @@ import twitter4j.conf.ConfigurationBuilder;
 
 public class SummaryOfTweetFromMongoDb {
 	
-	private static final String ACCESS_TOKEN = "20592220-cUk2O7hNwjEH6NxvARnMvRCIBDOfsbIYaIKaIT6GW";
-	private static final String ACCESS_TOKEN_SECRET = "jadLLqmmlmUmdxNE5Q6s4NO9S969bmtViDwgTCnAtg";
-	private static final String CONSUMER_KEY = "x7UC6mBiLYLRpRgVOYrnQ";
-	private static final String CONSUMER_KEY_SECRET = "pYKwyiQ3BmJNLnP8i2dbP9fZkuNGVFqTYDrLupqsG8";
+	private static final String ACCESS_TOKEN = "provide access token here";
+	private static final String ACCESS_TOKEN_SECRET = "provide access token secret here";
+	private static final String CONSUMER_KEY = "provide cosumer key here";
+	private static final String CONSUMER_KEY_SECRET = "provide cosumer key secret";
 	private static final String MONGO_DB_HOST = "localhost";
 	private static final int MONGO_DB_PORT = 27017;
 	private static final String MONGO_DB_NAME = "testTweets";
